@@ -13,3 +13,4 @@ Git commands.
 6. "git commit -m "text"" to send changes and save.
 7. repeat for more changes.
 
+Yousef Altay
